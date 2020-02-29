@@ -8,7 +8,7 @@ public class Petle {
 
         while (licznikWyswietlen < iloscWyswietlen){
             System.out.println("Hello World");
-            licznikWyswietlen--;
+            licznikWyswietlen++;
         }
 
     }
